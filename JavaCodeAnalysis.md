@@ -76,7 +76,7 @@ public class Role {
 ```
 get a hint that is priveilege is related to the higher value
 now we can go to JWT.io to decode the token we got before
-
+![image](https://github.com/user-attachments/assets/ebd5bf33-f3f4-4b46-90c8-cf08568af4c8)
 change the email and role to admin and userID to 2
 also, enter the secret key 1234
 copy the token and playload
