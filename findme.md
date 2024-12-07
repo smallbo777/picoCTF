@@ -10,7 +10,7 @@ try to seacrh somthing but don't have any change
 
 so, back to the login page
 
-![image](https://hackmd.io/_uploads/BkM0RoZVkg.png)
+![image](https://github.com/user-attachments/assets/5abb2a7b-aeb9-4851-9ed0-e29cf60078ed)
 
 use burp suite intercept the page and enter login information
 
